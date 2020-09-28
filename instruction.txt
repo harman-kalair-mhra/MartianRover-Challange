@@ -1,0 +1,6 @@
+turned north
+went forward
+turned south
+went forward
+turned west
+went forward
